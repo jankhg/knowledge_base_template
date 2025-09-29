@@ -1,0 +1,10 @@
+/* Remove padding at top of note in Reading View */
+div.markdown-source-view, div.markdown-preview-view {
+    padding-top: 0px;
+}
+
+/* Remove padding at top of note in Source View */
+.markdown-source-view.mod-cm6 .cm-scroller {
+    padding-top: 0px;
+}
+

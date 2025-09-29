@@ -1,0 +1,13 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "LYT Mode",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "hide metadata frontmatter",
+    "LYT Theme modifications",
+    "tableStyles",
+    "tasks_styling",
+    "white_image_background",
+    "wider_content_area"
+  ]
+}

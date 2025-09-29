@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "3ecd4571e787216a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e6451fded308091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68b93d1ca15d0a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "START HERE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "START HERE"
+            }
+          },
+          {
+            "id": "8e3c79b1ddbb62b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 AREAS/My Obsidian Vault/Obsidian notes formatting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian notes formatting"
+            }
+          },
+          {
+            "id": "a6baa590b72519bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steps performed to create this template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steps performed to create this template"
+            }
+          },
+          {
+            "id": "96818e069bece910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Calendar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d8ee67e9c383a665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2025-09-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-28"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "868da6500594e77e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd9737c0f4927164",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88588f9dfb13515c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1000f8ad46c9ebc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a06784876c320a70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8eb027f33190bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fc115773d723054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ff493f2d9f7cf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Steps performed to create this template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Steps performed to create this template"
+            }
+          },
+          {
+            "id": "d721341a7264b593",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Steps performed to create this template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Steps performed to create this template"
+            }
+          },
+          {
+            "id": "f7382e9039e9d786",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e92d11791dd3fc75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Steps performed to create this template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Steps performed to create this template"
+            }
+          },
+          {
+            "id": "3aef99512559eebd",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "assets/templates/Templater/Project (template).md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "68b93d1ca15d0a85",
+  "lastOpenFiles": [
+    "2 AREAS/My Obsidian Vault/Obsidian notes formatting.md",
+    "START HERE.md",
+    "Steps performed to create this template.md",
+    "Calendar/Calendar.md",
+    "Calendar/2025-09-28.md",
+    "0 INBOX/Obsidian basics.md",
+    "Calendar/2025-09-29.md",
+    "Cards/Software/Linux/git/git.md",
+    "Home.md",
+    "Calendar/2025-09-27.md",
+    "assets/templates/Templater/Project (template).md",
+    "Atlas (MOC).md",
+    "1 PROJECTS/PROJECTS.md",
+    "assets/pasted/My Obsidian Shortcuts.md",
+    "0 INBOX/Untitled.md",
+    "0 INBOX/Untitled 1.md",
+    "0 INBOX/2025-09-27.md",
+    "1 PROJECTS/ECOC 2025/ECOC 2025 (project).md",
+    "assets/templates/Templater/Routine yearly (template).md",
+    "Calendar/2025-09-27 monthly routine.md",
+    "Calendar/2025-09-27 yearly routine.md",
+    "Calendar/2025-09-27 weekly routine.md",
+    "1 PROJECTS/ECOC 2025",
+    "Calendar/2025-09-27 104943 Event - ECOC.md",
+    "1 PROJECTS/ECOC project/ECOC project (project).md",
+    "Calendar/2025-09-27 105513 Meeting - ECOC project (project) - Test.md",
+    "Calendar/2025-09-27 105036 Meeting - Test meeting.md",
+    "1 PROJECTS/ECOC project",
+    "Cards/Software/Linux/commands",
+    "Cards/Software/Linux/git/workflows",
+    "Cards/Software/Linux/git/commands",
+    "Cards/Software/Linux/ssh",
+    "Cards/Software/Linux",
+    "Cards/Software/Linux/git",
+    "Cards/Software",
+    "2 AREAS/My Obsidian Vault"
+  ]
+}
